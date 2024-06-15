@@ -2,7 +2,7 @@
 
 My config for Lazy vim which is a config distribution for Neo vim.
 
-## Key Cheat Sheet Points : -
+## Key findings since my switch to neovim from vscode : -
 
 - To get the current info on LSP Servers, run the command `:LspInfo`
 
