@@ -15,3 +15,6 @@ My config for Lazy vim which is a config distribution for Neo vim.
     - Go to System Settings -> Keyboard -> Keyboard Shortcuts -> Modifier Keys
     - In the Modifier Keys popup remap `Capslock` to `Escape`
 
+- To customize Lazy Vim / Neo Vim, you can add options in the `./lua/config/options.lua` file.
+  - To view the default options that are already enable / setup by Lazy Vim you can go here : https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/options.lua
+
