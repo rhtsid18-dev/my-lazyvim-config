@@ -5,5 +5,10 @@ vim.opt.winbar = "%=%m %f"
 vim.g.autoformat = false
 vim.opt.shiftwidth = 4
 vim.opt.tabstop = 4
-vim.expandtab = false
+vim.opt.expandtab = false
+vim.opt.list = true
+vim.opt.listchars = {
+	tab = '->',
+	space = '.'
+}
 
