@@ -22,3 +22,4 @@ My config for Lazy vim which is a config distribution for Neo vim.
 - To customize Lazy Vim / Neo Vim, you can add options in the `./lua/config/options.lua` file.
     - To view the default options that are already enable / setup by Lazy Vim you can go here : https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/options.lua
 
+- To enable vim motions in `zsh` shell, add the following line to your `.zshrc` file : `bindkey -v`
